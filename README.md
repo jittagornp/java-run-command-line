@@ -2,4 +2,4 @@
 
 > ตัวอย่างการ Run Command Line ผ่านภาษา Java
 
-![](./screen-shot.png?v=2)
+![](./screen-shot.png?v=3)
